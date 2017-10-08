@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+import math  
+m = math.pi * (2**2)
+print("s = %.2f" %m) 
+
